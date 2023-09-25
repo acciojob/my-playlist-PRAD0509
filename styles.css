@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+*{
+  background-color: rgb(204, 204, 204);
+}
+h1,h2{
+  text-align: center;
+}
+.container{
+  
+}
+ul{
+  background-color: rgb(255, 255, 255);
+}
+.songs-list{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
+li{
+  list-style: none;
+  background-color: rgb(255, 255, 255);
+  
+}
+a{
+  text-decoration: none;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+}
+.player{
+  background-color: rgb(255, 255, 255) ;
+  width: 80vw;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: auto;
+  padding: 15px;
+}
+#mp3{
+  background-color: rgb(255, 255, 255);
+}
+.player_two{
+  background-color: transparent;
+  width: 100%;
+}
+#jaan{
+  background-color: rgb(255, 255, 255) ;
+}
+.player_one{
+  width: 100%;
+  margin: auto;
+}
